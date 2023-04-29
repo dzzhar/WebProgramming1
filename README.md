@@ -1,3 +1,3 @@
-# Web Programming 2
+# Web Programming 1
 
-This repository contains materials on Web Programming practice 2
+This repository contains materials on Web Programming practice 1
